@@ -9,7 +9,7 @@
 2. Ability to set a nickname and enter your IP address for multiplayer.
 3. Localisation support. You can easily add your own localisations using the template in assets/loc.
 4. Available LCE versions are updated via pastebin, so you don't need to update the launcher to access new versions. Everything is updated via the internet.
-5. Simple and pleasant design
+5. Simple and pleasant design ispired by Legacy launcher
 
 ### Installation.
 
