@@ -1,3 +1,5 @@
+## After a bit of drama, I'm closing this launcher until I rewrite it completely without AI.
+
 ### Warning. I am a novice in C++, and all code was written using AI. If you dislike AI-generated code, you have been warned.
 
 ## Introduction
